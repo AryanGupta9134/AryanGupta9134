@@ -1,3 +1,5 @@
+# MERN Developer || Front-End Developer || React Developer 
+
 # 💫 About Me:
 🚀 Passionate Software Engineer with a focus on Frontend Development <br>💻 Proficient in Java, JavaScript (ES6+), React.js, HTML, CSS, PHP, and DSA<br>🛠️ Skilled in working with databases like MongoDB and MySQL (query optimization, schema design)<br>🌐 Experience with Git, CI/CD pipelines, and frontend deployment<br>👥 Strong team collaboration and project management skills<br>🧠 Analytical thinker with a knack for solving complex problems<br>🎯 Currently learning and building real-world projects in React<br>📚 Interested in AI-assisted development, freelancing, and passive income opportunities<br>🌱 Always learning, improving, and staying updated with the latest tech trends<br>💡 Open to collaboration, contributions, and exciting tech opportunities<br><br>
 
